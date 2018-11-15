@@ -1,0 +1,41 @@
+C:\Users\gusph\Documents\projetos\SymplexCsharp\SymplexCsharp\bin\Debug\SymplexCsharp.exe.config
+C:\Users\gusph\Documents\projetos\SymplexCsharp\SymplexCsharp\bin\Debug\SymplexCsharp.exe
+C:\Users\gusph\Documents\projetos\SymplexCsharp\SymplexCsharp\bin\Debug\SymplexCsharp.pdb
+C:\Users\gusph\Documents\projetos\SymplexCsharp\SymplexCsharp\obj\Debug\SymplexCsharp.csprojAssemblyReference.cache
+C:\Users\gusph\Documents\projetos\SymplexCsharp\SymplexCsharp\obj\Debug\SymplexCsharp.csproj.CoreCompileInputs.cache
+C:\Users\gusph\Documents\projetos\SymplexCsharp\SymplexCsharp\obj\Debug\SymplexCsharp.exe
+C:\Users\gusph\Documents\projetos\SymplexCsharp\SymplexCsharp\obj\Debug\SymplexCsharp.pdb
+C:\Users\gusph\Desktop\SymplexCsharp\SymplexCsharp\bin\Debug\SymplexCsharp.exe.config
+C:\Users\gusph\Desktop\SymplexCsharp\SymplexCsharp\bin\Debug\SymplexCsharp.exe
+C:\Users\gusph\Desktop\SymplexCsharp\SymplexCsharp\bin\Debug\SymplexCsharp.pdb
+C:\Users\gusph\Desktop\SymplexCsharp\SymplexCsharp\obj\Debug\SymplexCsharp.csprojAssemblyReference.cache
+C:\Users\gusph\Desktop\SymplexCsharp\SymplexCsharp\obj\Debug\SymplexCsharp.csproj.CoreCompileInputs.cache
+C:\Users\gusph\Desktop\SymplexCsharp\SymplexCsharp\obj\Debug\SymplexCsharp.exe
+C:\Users\gusph\Desktop\SymplexCsharp\SymplexCsharp\obj\Debug\SymplexCsharp.pdb
+D:\Downloads\Pesquisa operacional\SymplexCsharp\SymplexCsharp\bin\Debug\SymplexCsharp.exe.config
+D:\Downloads\Pesquisa operacional\SymplexCsharp\SymplexCsharp\bin\Debug\SymplexCsharp.exe
+D:\Downloads\Pesquisa operacional\SymplexCsharp\SymplexCsharp\bin\Debug\SymplexCsharp.pdb
+D:\Downloads\Pesquisa operacional\SymplexCsharp\SymplexCsharp\obj\Debug\SymplexCsharp.csprojAssemblyReference.cache
+D:\Downloads\Pesquisa operacional\SymplexCsharp\SymplexCsharp\obj\Debug\SymplexCsharp.csproj.CoreCompileInputs.cache
+D:\Downloads\Pesquisa operacional\SymplexCsharp\SymplexCsharp\obj\Debug\SymplexCsharp.exe
+D:\Downloads\Pesquisa operacional\SymplexCsharp\SymplexCsharp\obj\Debug\SymplexCsharp.pdb
+C:\Temp\SymplexCsharpDEFINITIVO\SymplexCsharp\bin\Debug\SymplexCsharp.exe.config
+C:\Temp\SymplexCsharpDEFINITIVO\SymplexCsharp\obj\Debug\SymplexCsharp.exe
+C:\Temp\SymplexCsharpDEFINITIVO\SymplexCsharp\obj\Debug\SymplexCsharp.pdb
+C:\Temp\SymplexCsharpDEFINITIVO\SymplexCsharp\bin\Debug\SymplexCsharp.exe
+C:\Temp\SymplexCsharpDEFINITIVO\SymplexCsharp\bin\Debug\SymplexCsharp.pdb
+C:\Temp\SymplexCsharpDEFINITIVO\SymplexCsharp\obj\Debug\SymplexCsharp.csprojResolveAssemblyReference.cache
+C:\Users\ferna\Downloads\SymplexCsharpDEFINITIVO-Semfronteiras\SymplexCsharp\obj\Debug\SymplexCsharp.exe
+C:\Users\ferna\Downloads\SymplexCsharpDEFINITIVO-Semfronteiras\SymplexCsharp\obj\Debug\SymplexCsharp.pdb
+C:\Users\ferna\Downloads\SymplexCsharpDEFINITIVO-Semfronteiras\SymplexCsharp\bin\Debug\SymplexCsharp.exe.config
+C:\Users\ferna\Downloads\SymplexCsharpDEFINITIVO-Semfronteiras\SymplexCsharp\bin\Debug\SymplexCsharp.exe
+C:\Users\ferna\Downloads\SymplexCsharpDEFINITIVO-Semfronteiras\SymplexCsharp\bin\Debug\SymplexCsharp.pdb
+C:\Users\ferna\Downloads\SymplexCsharpDEFINITIVO-Semfronteiras\SymplexCsharp\obj\Debug\SymplexCsharp.csprojResolveAssemblyReference.cache
+C:\Users\ferna\Downloads\SymplexCsharpDEFINITIVO-Semfronteiras\SymplexCsharp\obj\Debug\SymplexCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Rui\Desktop\Programa\SymplexCsharp\bin\Debug\SymplexCsharp.exe.config
+C:\Users\Rui\Desktop\Programa\SymplexCsharp\bin\Debug\SymplexCsharp.exe
+C:\Users\Rui\Desktop\Programa\SymplexCsharp\bin\Debug\SymplexCsharp.pdb
+C:\Users\Rui\Desktop\Programa\SymplexCsharp\obj\Debug\SymplexCsharp.csprojAssemblyReference.cache
+C:\Users\Rui\Desktop\Programa\SymplexCsharp\obj\Debug\SymplexCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Rui\Desktop\Programa\SymplexCsharp\obj\Debug\SymplexCsharp.exe
+C:\Users\Rui\Desktop\Programa\SymplexCsharp\obj\Debug\SymplexCsharp.pdb
